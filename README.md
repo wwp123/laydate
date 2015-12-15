@@ -119,3 +119,5 @@
         zIndex: 99999999, //css z-index
         choose: function(dates){ //选择好日期的回调
         }
+##注意事项
+* 将laydate整个文件放至您项目的任意目录，不要移动其文件结构，它们具有完整的依赖体系。

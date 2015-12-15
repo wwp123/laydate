@@ -102,7 +102,7 @@
      laydate.skin(lib);  //加载皮肤，参数lib为皮肤名 
      laydate(options);
      
-###3、参数说明
+###2、参数说明
      options是一个对象，它包含了以下key: '默认值'
         elem: '#id', //需显示日期的元素选择器
         event: 'click', //触发事件

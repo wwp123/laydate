@@ -1,4 +1,4 @@
-#layDate日历插件
+#layDate日历插件(非响应式版)
  基于原生JavaScript精心雕琢，兼容了包括IE6在内的所有主流浏览器。她具备优雅的内部代码，良好的性能体验，和完善的皮肤体系。
 ####官方地址：http://laydate.layui.com/
 
@@ -119,5 +119,6 @@
         zIndex: 99999999, //css z-index
         choose: function(dates){ //选择好日期的回调
         }
+        
 ##注意事项
 * 将laydate整个文件放至您项目的任意目录，不要移动其文件结构，它们具有完整的依赖体系。
